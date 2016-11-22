@@ -1,2 +1,5 @@
 # hello-world
-Another "hello-world" repository
+
+Hello!
+
+I'm just learning how to code, so there isn't much to view here...yet.
